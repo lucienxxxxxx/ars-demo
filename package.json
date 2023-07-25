@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "axios-miniprogram-adapter": "^0.3.5",
+    "hydrogen-js-sdk": "^2.5.1",
+    "js-audio-recorder": "^1.0.7",
+    "recorder-core": "^1.2.23070100"
+  }
+}
